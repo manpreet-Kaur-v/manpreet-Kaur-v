@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced WebGL, local beam search algorithms, and exploratory data analysis techniques.
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and game development in C++.
 - 📫 How to reach me: You can connect with me on LinkedIn (manprkaur) or email me at jdaawnm@gmail.com
-- ⚡ Fun fact: I'm a tech enthusiast who loves exploring intersections between creativity and technology! Also nature!✨
+- ⚡ Fun fact: I'm a tech enthusiast who loves exploring intersections between creativity and technology!✨
 
 <!---
 manpreet-Kaur-v/manpreet-Kaur-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
